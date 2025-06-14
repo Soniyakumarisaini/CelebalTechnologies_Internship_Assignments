@@ -1,0 +1,14 @@
+/*
+[Running] python -u "c:\Users\admin\Downloads\Linked_list_oop.py"
+Original Linked List:
+2 -> 4 -> 6 -> 8 -> None
+Deleted node at position 2: 4
+Linked List after deleting 2nd node:
+2 -> 6 -> 8 -> None
+Index out of range.
+Deleted node at position 1: 2
+Deleted node at position 1: 6
+Deleted node at position 1: 8
+List is empty. Cannot delete.
+
+[Done] exited with code=0 in 0.301 seconds
