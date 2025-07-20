@@ -1,0 +1,3 @@
+deployed model url:-   https://iris-flower-classifier-irisdataset.streamlit.app/
+local url:- http://localhost:8501
+network url:- http://192.168.67.215:8501
