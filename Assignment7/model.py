@@ -12,7 +12,8 @@ st.set_page_config(page_title="🌸 Iris Classifier", layout="centered")
 st.title("🌸 Iris Flower Classifier")
 st.markdown("""
 Enter flower measurements below and click **Predict** to classify the iris species.
-This app also visualizes your prediction against the training data.
+This app also vis
+            ualizes your prediction against the training data.
 """)
 
 # Load and train model
@@ -71,4 +72,9 @@ if st.button("🔍 Predict"):
 
 else:
     st.info("🔎 Adjust values in the sidebar and click **Predict** to classify the flower.")
+
+
+
+# App url:- local url:- http://localhost:8501
+# network url:- http://192.168.67.215:8501
 
